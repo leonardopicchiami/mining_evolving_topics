@@ -25,7 +25,7 @@ Python 3 was used for the development of the entire project. The system was deve
 
 * python -k k_val -ds1_path path -ds2-path path
 
-Using the -h option, the possible uses of the main program are shown. For each part, there is a python script that tests only that part, an ipython-notebook that shows complete tests across the timeline. The notebook is also available in the html version. Using the -h option, all possible uses of python scripts to test various parts are shown.
+k_val is in [5, 10, 20, 100]. Using the -h option, the possible uses of the main program are shown. For each part, there is a python script that tests only that part, an ipython-notebook that shows complete tests across the timeline. The notebook is also available in the html version. Using the -h option, all possible uses of python scripts to test various parts are shown.
 
 Finally, there are log files that show some tests of each part and the tests carried out through the main.
 
