@@ -1,0 +1,14 @@
+Spread of influence result with tipping model, seed top 5 nodes and half threshold calculation strategy
+
+iteration 0 : ['linear matrix inequality', 'global exponential stability', 'global asymptotic stability', 'algorithm', 'numerical analysis']
+len_iteration: 5
+
+iteration 1 : ['particle swarm optimization', 'artificial neural network', 'computationally efficient', 'time delays', 'discrete and distributed delays', 'distributed delays', 'discrete delays', 'quantum', 'sufficient conditions', 'lyapunov fractal', 'neural networks', 'machine learning', 'optimization problem', 'linear discriminant analysis']
+len_iteration: 14
+
+iteration 2 : ['periodic solution', 'stochastic systems', 'lyapunov–krasovskii functional', 'time-varying delays']
+len_iteration: 4
+
+iteration 3 : ['cohen–grossberg neural network', 'hopfield neural networks', 'uncertain systems']
+len_iteration: 3
+

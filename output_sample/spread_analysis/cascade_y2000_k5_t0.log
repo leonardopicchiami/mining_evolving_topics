@@ -1,0 +1,8 @@
+Spread of influence result with cascade model, seed top 5 nodes and half threshold calculation strategy
+
+iteration 0 : ['nonlinear system', 'simulation', 'support vector machine', 'feature vector', 'motion estimation\xa0']
+len_iteration: 5
+
+iteration 1 : ['experiment']
+len_iteration: 1
+

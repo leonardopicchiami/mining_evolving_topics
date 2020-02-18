@@ -1,0 +1,11 @@
+Spread of influence result with cascade model, seed top 5 nodes and degree threshold calculation strategy
+
+iteration 0 : ['linear matrix inequality', 'global exponential stability', 'global asymptotic stability', 'algorithm', 'numerical analysis']
+len_iteration: 5
+
+iteration 1 : ['particle swarm optimization', 'artificial neural network', 'periodic solution', 'computationally efficient', 'stochastic systems', 'time delays', 'lyapunov–krasovskii functional', 'discrete and distributed delays', 'hessian', 'variational principle', 'gradient', 'computation', 'distributed delays', 'discrete delays', 'hopfield neural networks', 'quantum', 'time-varying delays', 'sufficient conditions', 'lyapunov fractal', 'neural networks', 'machine learning', 'experiment', 'optimization problem', 'linear discriminant analysis', 'uncertain systems']
+len_iteration: 25
+
+iteration 2 : ['cohen–grossberg neural network']
+len_iteration: 1
+

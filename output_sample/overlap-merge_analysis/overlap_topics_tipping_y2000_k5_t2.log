@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "sample_overlapmerge_analysis.py", line 225, in <module>
+    ov_top.clique_percolation_method()
+  File "../overlap_topics.py", line 143, in clique_percolation_method
+    self.check_keywords(topic)
+  File "../overlap_topics.py", line 130, in check_keywords
+    raise excpt.TopicMalFormedException("Topic bad formed.")
+overlap_exception.TopicMalFormedException: Topic bad formed.
