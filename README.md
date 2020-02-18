@@ -4,7 +4,7 @@ This is a Python repository about the Web And Social Information Extraction proj
 
 ## Goal Description ##
 
-The goal is to identify and track macro-topics along a predefined timeline that runs from 2000 to 2018. Each topic is a list or set of keywords that is taken from the ds-1 dataset. More precisely, each record of the ds-1 dataset contains:
+The goal is to identify and trace macro-topics along a predefined timeline that runs from 2000 to 2018. Each topic is a list or set of keywords that is taken from the ds-1 dataset. More precisely, each record of the ds-1 dataset contains:
 
 * the year of the timeline.
 * a pair of keywords that have been co-cited in the given year.
