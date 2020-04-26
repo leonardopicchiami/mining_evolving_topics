@@ -16,7 +16,9 @@ There is also an additional dataset, ds-2, which where each record contains:
 * a pair of authors who published in a given year and represents the co-authorship between two authors. 
 * the number of collaborations between the two authors.
 
-The ds-2 dataset was used as an additional dataset to resolve the problem, but the main dataset is the ds-1. To solve the problem and carry out an empirical study on it, the information extrapolated from the datasets were modeled as graphs. Graph-dependent metrics such as pagerank, betweenness centrality, degree centraility were used to identify the most representative keywords for k topics, spread of influence algorithms and graph algorithms were used to identify topic keywords. Finally, the proportion of common words between topics was used to trace and decide whether to merge two topics. More information on the report.
+The ds-2 dataset was used as an additional dataset to resolve the problem, but the main dataset is the ds-1. To solve the problem and carry out an empirical study on it, the information extrapolated from the datasets were modeled as graphs. Graph-dependent metrics such as pagerank, betweenness centrality, degree centraility were used to identify the most representative keywords for k topics, spread of influence algorithms and graph algorithms were used to identify topic keywords. Finally, the proportion of common words between topics was used to trace and decide whether to merge two topics. 
+
+More information on the [report](./report.pdf).
 
 
 ## Description and Requirements ##
