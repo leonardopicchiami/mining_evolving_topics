@@ -1,6 +1,6 @@
 # MINING-EVOLVING-TOPICS
 
-This is a Python repository about the Web And Social Information Extraction project in the Computer Science Master's Degree course of La Sapienza University of Rome.
+This is a Python repository about the Web And Social Information Extraction Project 2018/2019 in the Computer Science Master's Degree course of La Sapienza University of Rome.
 
 ## Goal Description ##
 
@@ -23,7 +23,7 @@ The ds-2 dataset was used as an additional dataset to resolve the problem, but t
 
 Python 3 was used for the development of the entire project. The system was developed and tested using 32-bit Python 3.6 and 64-bit Python 3.7 on Linux systems. It has been developed and tested on Linux distros: Linux Mint and Ubuntu. The complete task is calculated by the main present in the src folder. To execute it, move with the terminal to the src folder and run the command:
 
-* python -k k_val -ds1_path path -ds2_path path
+`python -k k_val -ds1_path path -ds2_path path`
 
 k_val is in [5, 10, 20, 100]. Using the -h option, the possible uses of the main program are shown. For each part, there is a python script that tests only that part, an ipython-notebook that shows complete tests across the timeline. The notebook is also available in the html version. Using the -h option, all possible uses of python scripts to test various parts are shown.
 
