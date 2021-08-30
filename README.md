@@ -32,7 +32,7 @@ We used Python 3 to develop the whole project. In particular, we developed it th
 The script named main, sited in the src folder, runs the complete task. To execute it, move with the terminal to the src folder and run the command:
 
 ```sh
-python -k k_val -ds1_path path -ds2_path path
+python main.py -k k_val -ds1_path path -ds2_path path
 ```
 
 `k_val` is in `[5, 10, 20, 100]`. Using the `-h` option, the script shows all possible uses of the software. For each sub-task, we provided a python script that executes the experimental study up to that point. Again, using the `-h` option, every script shows all possible uses to test such sub-task. 
